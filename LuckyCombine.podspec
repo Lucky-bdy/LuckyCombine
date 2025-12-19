@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LuckyCombine'
-  s.version          = '1.1.2'
+  s.version          = '1.1.3'
   s.summary          = 'A short description of LuckyCombine.'
 
 # This description is used to generate tags and improve search results.
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/JunkyTang/LuckyCombine'
+  s.homepage         = 'https://github.com/Lucky-bdy/LuckyCombine'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Lucky' => '921969987@qq.com' }
-  s.source           = { :git => 'https://github.com/JunkyTang/LuckyCombine.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/Lucky-bdy/LuckyCombine.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '13.0'
